@@ -318,11 +318,12 @@ footer div {
     #archiveNav2{
         margin: -20px 0px 0px 0px;
     }
-#stack p input{
-    margin-left: -60px;
-    padding-right: 10px;
-    font-weight: bold;
-}
+    #stack p input{
+        margin-left: -60px;
+        padding-right: 10px;
+        font-weight: bold;
+    }
+
 }
 
 /* ########################## */
