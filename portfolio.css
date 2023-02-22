@@ -266,6 +266,9 @@ footer div {
         /* display: none; */
         visibility: hidden;
     }
+
+    
+    
     
 
 }
@@ -286,33 +289,32 @@ footer div {
     }
     
     
+    
 }
 
 
 @media screen and (max-width: 450px){
-    /* #stack,
-    #personal-info,
-    #connect{
-        /* width: fit-content;
+    /* div#stack,
+    div#personal-info,
+    div#connect{
+        width: fit-content;
         font-size: .8rem;
-        margin: 20px auto; */
-        /* background-color: red; */
-        /* font-size: .4rem; */
-        /* width: max-content; */
-        /* width: 320px; */
-        /* display: block; */
-        /* margin-right: 400px; */
-    /* } */
-/* 
-    div#more-info div{
-        width: 80px;
-        background-color: red;
-        font-size: .5rem;
-        padding: 0px;
+        margin: 20px auto;
+        font-size: .4rem;
+        width: max-content;
+        width: 320px;
         display: block;
-        margin-left: 140px;
+        margin-right: 400px;
     } */
 
+    div#more-info div{
+        width: 100%;
+        font-size: .5rem;
+        padding: 0px 30px;
+        /* background-color: red; */
+        display: block;
+        margin: 10px 0px 10px -30px;
+    }
 
 }
 
