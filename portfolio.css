@@ -309,7 +309,7 @@ footer div {
 
     div#more-info div{
         width: 100%;
-        font-size: .7rem;
+        font-size: .9rem;
         padding: 0px 30px;
         /* background-color: red; */
         display: block;
@@ -318,7 +318,11 @@ footer div {
     #archiveNav2{
         margin: -20px 0px 0px 0px;
     }
-
+#stack p input{
+    margin-left: -60px;
+    padding-right: 10px;
+    font-weight: bold;
+}
 }
 
 /* ########################## */
